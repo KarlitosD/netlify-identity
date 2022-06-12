@@ -1,0 +1,19 @@
+{
+  "name": "netlify-identity",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "gotrue-js": "^0.9.29",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "unocss": "^0.38.2",
+    "vite": "^2.9.9"
+  }
+}
